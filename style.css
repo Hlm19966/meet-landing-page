@@ -345,7 +345,7 @@ h3 {
 }
 .container {
     max-width: 1400px;
-    grid-template-columns: repeat(3 ,560px);
+    grid-template-columns: repeat(3 ,492px);
     margin-left: -10px;
 }
 .image-hero-right {
@@ -354,7 +354,7 @@ h3 {
 }
 .section-one {
     grid-row: 1/2;
-    margin-left: 616px;
+    margin-left: 538px;
     margin-top: 10px;
 }
 .image-hero-left {
