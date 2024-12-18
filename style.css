@@ -341,11 +341,11 @@ h3 {
 
 @media (min-width: 768px) {
 .hero {
-    max-width: 1400px;
+    max-width: 100%;
     margin: 0 auto;
 }
 .container {
-    max-width: 1400px;
+    max-width: 100%;
     grid-template-columns: repeat(3 ,492px);
     margin-left: -10px;
     margin: 0 auto;
