@@ -341,7 +341,7 @@ h3 {
 
 @media (min-width: 768px) {
 .hero {
-    max-width: 100%;
+    max-width: 1440px;
     margin: 0 auto;
 }
 .container {
