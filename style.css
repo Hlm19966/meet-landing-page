@@ -346,8 +346,6 @@ h3 {
     margin: 0 auto;
 }
 .container {
-    grid-template-columns: repeat(3 ,492px);
-    margin-left: -10px;
     margin: 0 auto;
 }
 .image-hero-right {
@@ -356,7 +354,7 @@ h3 {
 }
 .section-one {
     grid-row: 1/2;
-    margin-left: 538px;
+    margin-left: 480px;
     margin-top: 10px;
 }
 .image-hero-left {
