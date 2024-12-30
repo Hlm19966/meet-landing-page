@@ -337,15 +337,16 @@ h3 {
 
 .btn-three:hover {
     background-color: var(--violet-hover);
-}
-
-@media (min-width: 768px) {
+} 
+    
+@media only screen and (min-width:59.25rem)   {
 
 .hero {
     max-width: 1550px;
     margin: 0 auto;
 }
 .container {
+    
     margin: 0 auto;
 }
 .image-hero-right {
@@ -363,7 +364,7 @@ h3 {
 }
 .four-images {
     grid-template-columns: repeat(4,1fr);
-    margin: 30px 70px 25px 70px;
+    padding: 30px 70px 25px 70px;
 }
 
 .part-three {
